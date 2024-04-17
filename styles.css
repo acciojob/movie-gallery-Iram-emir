@@ -1,4 +1,14 @@
-  .movie-img {
-      width: 100px;
-      height: 100px;
-    }
+.class="col-sm-4{
+	width:100px;
+	height:100;
+}
+
+.class="col-sm-12{
+	width:100px;
+	height:100;
+}
+
+.class="col-sm-2{
+	width:100px;
+	height:100;
+}
